@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "1208600cd48bcf7e2f27fb8c",
+  "owner": "vgmxtstnana",
+  "repo": "page-ed688b75fb102201343464a8",
+  "title": "WgetCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ed688b75fb102201343464a8",
+      "a": "WgetCloud",
+      "b": "免费订阅导入",
+      "entity": "WgetCloud",
+      "brand": "WgetCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e75ef74ae3176266cd67d45b501b5575de9e1379e17c09eaaee5c745cef98be7",
+      "content": {
+        "primary_entity": "WgetCloud",
+        "keyword1": "WgetCloud",
+        "keyword2": "免费订阅导入",
+        "content": {
+          "AI_CLIENTS_TITLE": "适配常用客户端",
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，导入订阅后即可使用。",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，分别支持 3 台、5 台和 20 台设备同时在线，流量从每月 100GB 到 1000GB。旗舰版内置 IPLC 专线，适合游戏加速与原生流媒体解锁；团队版提供 VIP 高带宽节点和定制路由。选择套餐后打开对应客户端，按文档导入订阅信息即可开始连接。",
+          "AI_HERO_SUBTITLE": "面向多设备的海外加速服务",
+          "AI_HERO_INTRO": "WgetCloud 为个人与团队提供海外网络加速，按流量和设备数量划分基础版、旗舰版、团队版三档套餐。在电脑、手机或路由器上安装兼容客户端，导入订阅信息，即可连接节点使用。",
+          "AI_VISUAL_TITLE": "WgetCloud 多设备加速",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "最高支持 20 台设备",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量和线路类型三个角度对比套餐，更容易找到适合的方案。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版可达 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_2": "流量与周期",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB，年付价格约为月付的十个月费用。",
+          "AI_FEATURE_TITLE_3": "节点线路差异",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线，团队版提供 VIP 高带宽节点，可按需升级。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月 或 ¥150/年，旗舰版 ¥35/月 或 ¥350/年，团队版 ¥85/月 或 ¥850/年，按在线设备与流量需求选择。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确定设备和流量需求，再选择套餐并按客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，从基础版、旗舰版或团队版中挑选。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本是否满足所选套餐的节点和协议要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "打开对应客户端，参照文档导入订阅信息，保存后连接节点使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐，顺畅连接",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选择 WgetCloud 套餐，按客户端文档导入订阅即可使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "WgetCloud 套餐之间主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "主要区别在月流量与设备数量。基础版 100GB/3 台，旗舰版 300GB/5 台并含 IPLC 专线优化，团队版 1000GB/20 台，适合成员较多的场景。",
+          "AI_FAQ_QUESTION_2": "一个套餐可以在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "按套餐限制同时在线设备数：基础版 3 台，旗舰版 5 台，团队版 20 台。多设备使用时建议错开峰值，避免超出同时在线限制。",
+          "AI_FAQ_QUESTION_3": "如何在客户端中导入订阅？",
+          "AI_FAQ_ANSWER_3": "安装对应客户端后，复制订阅地址并粘贴到客户端的订阅或配置导入入口，保存后更新节点列表即可。不同客户端菜单名称略有差异，按各自文档操作。",
+          "AI_FAQ_QUESTION_4": "月付和年付应该怎么选？",
+          "AI_FAQ_ANSWER_4": "短期体验或临时项目适合月付，长期稳定使用可考虑年付。基础版年付 150 元，旗舰版 350 元，团队版 850 元，年付折算后单价更低。",
+          "AI_FAQ_QUESTION_5": "哪些设备适合用 WgetCloud？",
+          "AI_FAQ_ANSWER_5": "手机、电脑与平板均可按客户端方案配置，适合流媒体观看、游戏加速与日常办公。设备系统版本和客户端兼容情况请参考各客户端说明。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "884737ed46d31718a4153a8927cfd4788d8484b3ac19e711571f54720f60543b",
+    "sitemap.xml": "df4f0369dfa472727d2df3ada36ca575db240de138d7d2c1f2753082843c1732",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "5e712a967d0fa43dd0a61cd76263ee94fd5ba29766f713abb0f120a124f65b3c"
+}
